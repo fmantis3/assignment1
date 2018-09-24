@@ -8,12 +8,13 @@ body {
 }
 */
 h1 {
-    color: green;
+    color: #ff4e00;
     background-color: beige;
 }
 
 p { 
     color: coral;
+    font-size: 24pt;
     background-color: aqua;
 }
 a {
