@@ -20,3 +20,14 @@ p {
 a {
     color: red;
 }
+#this {
+    color: #0000FF
+}
+
+#newcolor {
+    color: #00ff00;
+    font-family: cursive
+}
+body p {
+    font-family: cursive
+}
